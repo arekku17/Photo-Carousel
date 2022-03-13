@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 public class Interfaz extends javax.swing.JFrame {
-
+    //Se crean las cosas necesarias
     Galeria controlGaleria;
     int posAux = 0;
     LinkedList<Integer> colaNum = new LinkedList<>();
